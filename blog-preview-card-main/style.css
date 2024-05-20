@@ -56,6 +56,10 @@ html {
 .title {
   font-size: 90%;
 }
+.title:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
 .description {
   font-size: 85%;
   padding: 6% 0;
